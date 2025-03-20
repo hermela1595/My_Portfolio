@@ -38,6 +38,8 @@ export default function About() {
       <p>
         <span className="italic">My expertise extends beyond coding. </span>I also analyze user/consumer needs to ensure the content I create is not only {" "}
         <span className="font-medium">functional  but also valuable and accessible.</span>{" "}
+        {/* <span className="font-medium">history and philosophy</span>. I'm also
+        learning how to play the guitar. */}
       </p>
     </motion.section>
   );
